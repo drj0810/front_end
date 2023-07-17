@@ -80,10 +80,11 @@ section article.profile a.btnView {
 	line-height: 32px;
 	text-align: center;
 }
-section article.profile a.btnView:active {
+section article.profile a.btnView:hover {
 	display: block;
 	width: 250px;
 	height: 64px;
+	
 }
 section ul.contact {
 	margin-bottom: 25px;
